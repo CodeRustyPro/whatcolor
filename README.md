@@ -21,4 +21,4 @@ Welcome to the Color Detection App! This project allows you to identify colors f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/color-detection-app.git
+   git clone https://github.com/CodeRustyPro/whatcolor.git
