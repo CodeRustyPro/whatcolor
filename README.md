@@ -1,4 +1,4 @@
-# Color Detection App
+# Color Detection Tool
 
 ## Overview
 
