@@ -1,8 +1,14 @@
 # Color Detection Tool
 
+
+
 ## Overview
 
 Welcome to the Color Detection App! This project allows you to identify colors from both live camera feeds and uploaded images. Simply snap a photo, click on any part of the image or video, and find out the exact color name, including those you might not be familiar with.
+
+## Demo
+![ezgif-5-7eedad3254](https://github.com/user-attachments/assets/cf67b9b8-4362-47a8-abb6-a5cc6ec012e6)
+
 
 ## Features
 
